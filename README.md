@@ -38,7 +38,7 @@ Got an idea or project in mind?
 Let’s build something meaningful together.  
 Explore my work and feel free to reach out!
 
-🌐 [faizanakram.vercel.app](https://yourportfolio.link)  
-📧 yourname@gmail.com  
+  
+📧 faizanakramdev@gmail.com  
 📍 Pakistan  
-🔗 [LinkedIn](https://linkedin.com/in/faizanakram) • [GitHub](https://github.com/faizanakram2) • [Upwork](https://upwork.com/freelancers/~yourprofile)
+🔗 [LinkedIn](https://www.linkedin.com/in/faizan-akram-851b51318/) • [GitHub](https://github.com/faizanakram2) • 
