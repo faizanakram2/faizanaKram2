@@ -18,9 +18,8 @@ As a trusted developer with a strong track record, I’ve helped clients worldwi
 ---
 
 ###  My Approach  
-I start with the “why” of your project—then build clean, scalable, and effective solutions aligned with your goals. Whether it’s launching a SaaS MVP or automating workflows, I bring clarity and performance to every project.  
-Recently, I built a chatbot solution that reduced a client's customer support load by **40%**, leading to faster responses and happier users.
-
+I start with the “why” of your project—then build clean, scalable, and effective MERN stack solutions aligned with your goals. Whether it’s launching a modern web app or optimizing full-stack performance, I bring clarity and results to every build.
+Recently, I developed a MERN-based dashboard that improved a client’s data workflow efficiency by 40%, cutting manual tasks and boosting user satisfaction.
 ---
 
 ###  Skills  
